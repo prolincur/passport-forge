@@ -1,6 +1,6 @@
 {
   "name": "passport-forge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Autodesk Forge OAuth 2.0 authentication (three-legged) strategy for Passport.",
   "main": "./lib",
   "repository": {

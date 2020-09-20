@@ -25,7 +25,8 @@ which receives an access token and profile, and calls `done` providing a user.
         tokenURL: 'https://developer.api.autodesk.com/authentication/v1/getToken',
         clientID: EXAMPLE_CLIENT_ID,
         clientSecret: EXAMPLE_CLIENT_SECRET,
-        callbackURL: "http://localhost:3000/auth/example/callback"
+        callbackURL: 'http://localhost:3000/auth/example/callback',
+        scopes: 'data:read'
       },
       function(accessToken, refreshToken, profile, done) {
         User.findOrCreate({ exampleId: profile.id }, function (err, user) {
