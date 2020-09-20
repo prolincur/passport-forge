@@ -60,10 +60,9 @@ application:
 ## Tests
 
     $ npm install
-    $ npm test
 
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) Prolincur Technologies LLP <[http://prolincur.com/](http://prolincur.com/)>
+Copyright (c) Prolincur Technologies LLP <[https://prolincur.com/](https://prolincur.com/)>
