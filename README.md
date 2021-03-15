@@ -66,4 +66,8 @@ application:
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) Prolincur Technologies LLP <[https://prolincur.com/](https://prolincur.com/)>
+### Author
+
+[Sourabh Soni](https://prolincur.com)\
+[Prolincur Technologies](https://prolincur.com)
+

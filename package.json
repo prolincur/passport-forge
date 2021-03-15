@@ -1,6 +1,6 @@
 {
   "name": "passport-forge",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Autodesk Forge OAuth 2.0 authentication (three-legged) strategy for Passport.",
   "main": "./lib",
   "repository": {
@@ -13,7 +13,7 @@
     "authentication",
     "forge"
   ],
-  "author": "Sourabh.Soni@prolincur.com",
+  "author": "Sourabh Soni <https://prolincur.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/prolincur/passport-forge/issues"
